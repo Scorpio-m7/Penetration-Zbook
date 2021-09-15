@@ -3,7 +3,7 @@
 来源https://blog.csdn.net/qq_45161658/
 
 
-https://github.com/king-notfound404/Penetration-Zbook/blob/main/渗透测试.md
+https://github.com/Scorpio-m7/Penetration-Zbook/blob/main/渗透测试.md
 
 
 持续更新中
